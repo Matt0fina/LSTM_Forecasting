@@ -1,4 +1,5 @@
 # CMPE 401 Project 2: Time Series Modeling - LSTM_Forecasting
+**Author:** Matthew Ofina
 
 ## 1. Project Overview
 This project explores two fundamental deep learning approaches for time-series modeling using Keras: 
